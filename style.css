@@ -35,6 +35,8 @@ body{
 	height: 100vh;
 	position: relative;
 	background-position-y:-300px;
+	background-attachment: fixed;
+
 }
 
 .navbar {
